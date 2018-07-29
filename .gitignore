@@ -1,0 +1,7 @@
+checkpoint/*
+*.pyc
+face_reconization/*
+lfw_face/*
+summaries/*
+venv/*
+.idea/*
